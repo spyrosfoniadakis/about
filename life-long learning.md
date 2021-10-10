@@ -1,17 +1,25 @@
+## Life-long learning
 In an effort to keep up to date with advancements in software technology, followed a variety of online online courses in various areas including Microservices Architecture, Spring Framework, Deep Learning and Big Data.
 
+### Spring, Spring Boot & Microservices
 - Extending, Securing, and Dockerizing Spring Boot Microservices – LinkedIn, Oct 2021
 - Spring: Spring Data 2 – LinkedIn, Sep 2021
 - Creating Your First Spring Boot Microservice – LinkedIn, Sep 2021
 - Microservices Architecture – Udemy, Feb 2020
-- Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning – Coursera, Apr 2019
 - Spring and Hibernate for beginners (includes Spring Boot) – Udemy, Jan 2019
-- Improving Deep Neural Networks, Hyperparameter Tuning, Regularization and Optimization – Coursera, Jun 2018
-- Front-End Web UI Frameworks and Tools: Bootstrap 4 – Udemy, May 2018
+
+### Machine Learning & Deep Learning
+- Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning – DeepLearning.ai, Coursera, Apr 2019
+- Improving Deep Neural Networks, Hyperparameter Tuning, Regularization and Optimization – DeepLearning.ai, Coursera, Jun 2018
 - Convolutional Neural Network – DeepLearning.ai – Coursera, Feb 2018
-- Sequence Models – DeepLearning.ai – Coursera, Feb 2018
-- Structuring ML projects – Coursera, Jan 2018
-- Neural Networks and Deep Learning – DeepLearning.ai – Coursera, Dec 2017
+- Sequence Models – DeepLearning.ai – DeepLearning.ai, Coursera, Feb 2018
+- Structuring ML projects – DeepLearning.ai, Coursera, Jan 2018
+- Neural Networks and Deep Learning – DeepLearning.ai, Coursera, Dec 2017
+
+### Front end
+- Front-End Web UI Frameworks and Tools: Bootstrap 4 – University of Hong Kong, Coursera, May 2018
+
+### Big Data
 - Spark Fundamentals I – Mar 2017, IBM Big Data University
 - Big Data 101 – Mar 2017, IBM Big Data University
 - Hadoop 101 – Sep 2016, IBM Big Data University

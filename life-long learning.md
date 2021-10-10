@@ -1,5 +1,5 @@
 ## Life-long learning
-In an effort to keep up to date with advancements in software technology, followed a variety of online online courses in various areas including Microservices Architecture, Spring Framework, Deep Learning and Big Data.
+In an effort to keep up to date with advancements in software technology, followed a variety of online courses in various areas including Microservices Architecture, Spring Framework, Deep Learning and Big Data.
 
 ### Spring, Spring Boot & Microservices
 - Extending, Securing, and Dockerizing Spring Boot Microservices – LinkedIn, Oct 2021

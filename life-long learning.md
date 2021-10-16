@@ -2,6 +2,7 @@
 In an effort to keep up to date with advancements in software technology, followed a variety of online courses in various areas including Microservices Architecture, Spring Framework, Deep Learning and Big Data.
 
 ### Spring, Spring Boot & Microservices
+- Spring Framework in Depth – LinkedIn, Oct 2021
 - Extending, Securing, and Dockerizing Spring Boot Microservices – LinkedIn, Oct 2021
 - Spring: Spring Data 2 – LinkedIn, Sep 2021
 - Creating Your First Spring Boot Microservice – LinkedIn, Sep 2021

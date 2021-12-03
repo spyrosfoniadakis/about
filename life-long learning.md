@@ -1,7 +1,12 @@
 ## Life-long learning
 In an effort to keep up to date with advancements in software technology, followed a variety of online courses in various areas including Microservices Architecture, Spring Framework, Deep Learning and Big Data.
 
+### Agile Framework
+ - Agile Foundations - LinkedIn, Dec 2021
+
 ### Spring, Spring Boot & Microservices
+- Spring: Spring Security - LinkedIn, Nov 2021
+- Spring: Design Patterns – LinkedIn, Oct 2021
 - Spring Framework in Depth – LinkedIn, Oct 2021
 - Extending, Securing, and Dockerizing Spring Boot Microservices – LinkedIn, Oct 2021
 - Spring: Spring Data 2 – LinkedIn, Sep 2021

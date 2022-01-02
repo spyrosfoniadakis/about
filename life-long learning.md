@@ -14,6 +14,9 @@ In an effort to keep up to date with advancements in software technology, follow
 - Microservices Architecture – Udemy, Feb 2020
 - Spring and Hibernate for beginners (includes Spring Boot) – Udemy, Jan 2019
 
+### MongoDB
+- Learning MongoDB – LinkedIn, Dec 2021
+
 ### Machine Learning & Deep Learning
 - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning – DeepLearning.ai, Coursera, Apr 2019
 - Improving Deep Neural Networks, Hyperparameter Tuning, Regularization and Optimization – DeepLearning.ai, Coursera, Jun 2018

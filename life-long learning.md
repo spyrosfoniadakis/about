@@ -29,11 +29,11 @@ In an effort to keep up to date with advancements in software technology, follow
 - Front-End Web UI Frameworks and Tools: Bootstrap 4 – University of Hong Kong, Coursera, May 2018
 
 ### Big Data
-- Spark Fundamentals I – Mar 2017, IBM Big Data University
-- Big Data 101 – Mar 2017, IBM Big Data University
-- Hadoop 101 – Sep 2016, IBM Big Data University
-- Map Reduce and YARN – Sep 2016, IBM Big Data University
-- Apache Pig 101 – Sep 2016, IBM Big Data University
+- Spark Fundamentals I – IBM Big Data University, Mar 2017
+- Big Data 101 – IBM Big Data University, Mar 2017
+- Hadoop 101 – IBM Big Data University, Sep 2016
+- Map Reduce and YARN – IBM Big Data University, Sep 2016
+- Apache Pig 101 – IBM Big Data University, Sep 2016
 
 ### Docker
  - Learning Docker - LinkedIn, Jan 2022

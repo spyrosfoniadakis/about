@@ -37,3 +37,6 @@ In an effort to keep up to date with advancements in software technology, follow
 
 ### Docker
  - Learning Docker - LinkedIn, Jan 2022
+
+### Kubernetes
+ - Learning Kubernetes - LinkedIn, Jan 2022

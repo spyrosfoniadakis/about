@@ -28,8 +28,8 @@ In an effort to keep up to date with advancements in software technology, follow
 ### Front end
 - Front-End Web UI Frameworks and Tools: Bootstrap 4 – University of Hong Kong, Coursera, May 2018
 - JavaScript: Classes, LinkedIn, Nov 2022
-- Learning the JavaScript Language – LinkedIn, Aug 2024
 - TypeScript Essential Training – LinkedIn, Apr 2024
+- Learning the JavaScript Language – LinkedIn, Aug 2024
 
 ### Big Data
 - Spark Fundamentals I – IBM Big Data University, Mar 2017

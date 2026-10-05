@@ -28,18 +28,18 @@ In an effort to keep up to date with advancements in software technology, follow
 - JavaScript: Classes, LinkedIn, Nov 2022
 - Front-End Web UI Frameworks and Tools: Bootstrap 4 – University of Hong Kong, Coursera, May 2018
 
+### Docker
+ - Learning Docker - LinkedIn, Jan 2022
+
+### Kubernetes
+ - Learning Kubernetes - LinkedIn, Jan 2022
+
 ### Big Data
 - Spark Fundamentals I – IBM Big Data University, Mar 2017
 - Big Data 101 – IBM Big Data University, Mar 2017
 - Hadoop 101 – IBM Big Data University, Sep 2016
 - Map Reduce and YARN – IBM Big Data University, Sep 2016
 - Apache Pig 101 – IBM Big Data University, Sep 2016
-
-### Docker
- - Learning Docker - LinkedIn, Jan 2022
-
-### Kubernetes
- - Learning Kubernetes - LinkedIn, Jan 2022
 
 ### Machine Learning & Deep Learning
 - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning – DeepLearning.ai, Coursera, Apr 2019

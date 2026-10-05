@@ -20,14 +20,6 @@ In an effort to keep up to date with advancements in software technology, follow
 ### MongoDB
 - Learning MongoDB – LinkedIn, Dec 2021
 
-### Machine Learning & Deep Learning
-- Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning – DeepLearning.ai, Coursera, Apr 2019
-- Improving Deep Neural Networks, Hyperparameter Tuning, Regularization and Optimization – DeepLearning.ai, Coursera, Jun 2018
-- Convolutional Neural Network – DeepLearning.ai – Coursera, Feb 2018
-- Sequence Models – DeepLearning.ai – DeepLearning.ai, Coursera, Feb 2018
-- Structuring ML projects – DeepLearning.ai, Coursera, Jan 2018
-- Neural Networks and Deep Learning – DeepLearning.ai, Coursera, Dec 2017
-
 ### Front end
 - Angular Essential Training – Oct 2026, LinkedIn
 - Level Up: JavaScript – Mar 2025, LinkedIn
@@ -48,3 +40,11 @@ In an effort to keep up to date with advancements in software technology, follow
 
 ### Kubernetes
  - Learning Kubernetes - LinkedIn, Jan 2022
+
+### Machine Learning & Deep Learning
+- Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning – DeepLearning.ai, Coursera, Apr 2019
+- Improving Deep Neural Networks, Hyperparameter Tuning, Regularization and Optimization – DeepLearning.ai, Coursera, Jun 2018
+- Convolutional Neural Network – DeepLearning.ai – Coursera, Feb 2018
+- Sequence Models – DeepLearning.ai – DeepLearning.ai, Coursera, Feb 2018
+- Structuring ML projects – DeepLearning.ai, Coursera, Jan 2018
+- Neural Networks and Deep Learning – DeepLearning.ai, Coursera, Dec 2017

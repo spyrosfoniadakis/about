@@ -14,6 +14,9 @@ In an effort to keep up to date with advancements in software technology, follow
 - Microservices Architecture – Udemy, Feb 2020
 - Spring and Hibernate for beginners (includes Spring Boot) – Udemy, Jan 2019
 
+### Python
+- Python Essential Training – Oct 2026, LinkedIn
+
 ### MongoDB
 - Learning MongoDB – LinkedIn, Dec 2021
 
@@ -26,10 +29,12 @@ In an effort to keep up to date with advancements in software technology, follow
 - Neural Networks and Deep Learning – DeepLearning.ai, Coursera, Dec 2017
 
 ### Front end
-- Front-End Web UI Frameworks and Tools: Bootstrap 4 – University of Hong Kong, Coursera, May 2018
-- JavaScript: Classes, LinkedIn, Nov 2022
+- Angular Essential Training – Oct 2026, LinkedIn
+- Level Up: JavaScript – Mar 2025, LinkedIn
 - TypeScript Essential Training – LinkedIn, Aug 2023
 - Learning the JavaScript Language – LinkedIn, Aug 2023
+- JavaScript: Classes, LinkedIn, Nov 2022
+- Front-End Web UI Frameworks and Tools: Bootstrap 4 – University of Hong Kong, Coursera, May 2018
 
 ### Big Data
 - Spark Fundamentals I – IBM Big Data University, Mar 2017

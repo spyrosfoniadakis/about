@@ -20,7 +20,8 @@ In an effort to keep up to date with advancements in software technology, follow
 ### MongoDB
 - Learning MongoDB – LinkedIn, Dec 2021
 
-### Front end
+### Front-End Development - Angular, TypeScript and JavaScript
+- Reactivity and Signals in Angular – Oct 2026, LinkedIn
 - Angular Essential Training – Oct 2026, LinkedIn
 - Level Up: JavaScript – Mar 2025, LinkedIn
 - TypeScript Essential Training – LinkedIn, Aug 2023

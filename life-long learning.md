@@ -15,15 +15,18 @@ In an effort to keep up to date with advancements in software technology, follow
 - Spring and Hibernate for beginners (includes Spring Boot) – Udemy, Jan 2019
 
 ### Python
-- Python Essential Training – Oct 2026, LinkedIn
+- Python Essential Training – LinkedIn, Oct 2026
 
 ### MongoDB
 - Learning MongoDB – LinkedIn, Dec 2021
 
 ### Front-End Development - Angular, TypeScript and JavaScript
-- Reactivity and Signals in Angular – Oct 2026, LinkedIn
-- Angular Essential Training – Oct 2026, LinkedIn
-- Level Up: JavaScript – Mar 2025, LinkedIn
+- Angular Essential Training – LinkedIn, Oct 2026
+- Angular: Building Large Application – LinkedIn, Oct 2026
+- Learning the Angular CLI – LinkedIn, Oct 2026
+- Learning RxJS – LinkedIn, Oct 2026
+- Reactivity and Signals in Angular – LinkedIn, Oct 2026
+- Level Up: JavaScript – LinkedIn, Mar 2025
 - TypeScript Essential Training – LinkedIn, Aug 2023
 - Learning the JavaScript Language – LinkedIn, Aug 2023
 - JavaScript: Classes, LinkedIn, Nov 2022
